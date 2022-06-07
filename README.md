@@ -7,117 +7,53 @@ in markdown. -->
   <img src=".images/top.jpg" alt="Decorative image">
   <br>
   <br>
-  <span>Project Name</span>
+  <span>Research Communities Atlas</span>
   <br>
 
-  <!-- Below, there are 4 small button-like images. These are called "badges"
-  and are popular on Github. You can create your own or edit the ones below.
-  They are useful for adding quick links to external files or to add badges for
-  your project. Each one consists of a link (`<a href=..`) and an `<img ...>`
-  tag. Edit the link t point to where you want. Delete the badges that you don't
-  need. -->
-
-  <a href="https://www.gnu.org/licenses/gpl-3.0.html">
-    <img src="https://img.shields.io/badge/license-gpl_v3-be0000?style=flat" />
-  </a>
-
-  <a href="https://img.shields.io/badge/license-gpl_v3-be0000">
-    <!-- You can edit the `Overleaf-paper` part in the next link to change the
-         text of the created badge. -->
-    <img
-    src="https://img.shields.io/badge/Overleaf-paper-138a07?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABfVBMVEUAAABIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDwAAAAcciVhAAAAfXRSTlMAAA8mNj9EQz0yIQhVz+71+/79+fPrZU3k96yDmo36wQEos1pWyR+9tSrjwjkSoF9Fezo3jPZQSm6Til0RmR4Qiysk8YFcDe30kdO8aCPygkwpCtkU3QXwnxu2WXw4R3MM7FRICxZTUQPaBAfnqBXVE2MYZNvEtIQX+MU7S/Pc0IMAAAABYktHRACIBR1IAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJTUUH5AYYFRgQ3q2QQgAAAX1JREFUOMutUldbwkAQ3At2UQJiiQ1FxYaoaGyo2Dt27Nh7FxuK89+9iH4muTz5uS/J3czuzO4t0f8GY0SSLS09IzMrOyeXmIAT2fPyHbITcBW4C4vECsUl+A4FKDVXYKzsBy6vqISnSsivTqHemto6XsLHBAP1GtwgNTZp32qLHvh1s78l8FWm1aKFNqCdgooGOzpIFOiEGiR7V3dPb1+o3yJ/AG5psIBnD4QtZzgEDI+MfsmrYyR2yPXHJ6DmT05plGlxxDOYJe+cLSxFQvOcsWC2UAwsLkU0Z4yWV/iUVk2EKEBrKeecsQ5sGNvYVLCl09vmIsYCfhk7Okc5biBmIOy6sKc77h8AhwbCkQsB3fGYE+wGQkyGQyfh4xJBA+FEBU5/bZ9xk+dGlx7g4vLncHUN3Jhe65bnrFxqO81Y7h1f2XvzqLVtjD7EieKPT/y3j5n3lZ6hixer9379xReICfvCaySeFdnplN/eE+I6pRgUTy5+JBNkjf89PgFCeG27lghtGAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wNi0yNFQyMToyNDoxNiswMDowMFNIgJYAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDYtMjRUMjE6MjQ6MTYrMDA6MDAiFTgqAAAAAElFTkSuQmCC"
-    />
-  </a>
-
-  <a href="https://www.duckduckgo.com">
-    <img src="https://img.shields.io/badge/license-gpl_v3-be0000?style=flat" />
-  </a>
-
-  <a href="https://img.shields.io/badge/license-gpl_v3-be0000">
-    <img src="https://img.shields.io/badge/Overleaf-paper-138a07?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABfVBMVEUAAABIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDwAAAAcciVhAAAAfXRSTlMAAA8mNj9EQz0yIQhVz+71+/79+fPrZU3k96yDmo36wQEos1pWyR+9tSrjwjkSoF9Fezo3jPZQSm6Til0RmR4Qiysk8YFcDe30kdO8aCPygkwpCtkU3QXwnxu2WXw4R3MM7FRICxZTUQPaBAfnqBXVE2MYZNvEtIQX+MU7S/Pc0IMAAAABYktHRACIBR1IAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJTUUH5AYYFRgQ3q2QQgAAAX1JREFUOMutUldbwkAQ3At2UQJiiQ1FxYaoaGyo2Dt27Nh7FxuK89+9iH4muTz5uS/J3czuzO4t0f8GY0SSLS09IzMrOyeXmIAT2fPyHbITcBW4C4vECsUl+A4FKDVXYKzsBy6vqISnSsivTqHemto6XsLHBAP1GtwgNTZp32qLHvh1s78l8FWm1aKFNqCdgooGOzpIFOiEGiR7V3dPb1+o3yJ/AG5psIBnD4QtZzgEDI+MfsmrYyR2yPXHJ6DmT05plGlxxDOYJe+cLSxFQvOcsWC2UAwsLkU0Z4yWV/iUVk2EKEBrKeecsQ5sGNvYVLCl09vmIsYCfhk7Okc5biBmIOy6sKc77h8AhwbCkQsB3fGYE+wGQkyGQyfh4xJBA+FEBU5/bZ9xk+dGlx7g4vLncHUN3Jhe65bnrFxqO81Y7h1f2XvzqLVtjD7EieKPT/y3j5n3lZ6hixer9379xReICfvCaySeFdnplN/eE+I6pRgUTy5+JBNkjf89PgFCeG27lghtGAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wNi0yNFQyMToyNDoxNiswMDowMFNIgJYAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDYtMjRUMjE6MjQ6MTYrMDA6MDAiFTgqAAAAAElFTkSuQmCC" />
-  </a>
-  <br>
 </h1>
 
 <p align="justify">
-  A README template for projects of the SSAS group.
+  Research Communities Atlas (a.k.a. Security Atlas) is a tool that allows to peform a comprehensive and systematic literature review of the cybersecurity and information security domain (as well as other research domains, if configured properly) using the Scopus database as a data source, with goal to detect the research communities that are active throughout the years based on the author citations of the most cited articles.
+
+  This tool allows to peform a comprehensive and systematic literature review of any research domain. The code allows scraping data from the Scopus database, storing them in GCP Datastore, and then running the community detection and analysis locally. 
 <p>
 
-## Table of contents
-- [Quick Info](#quick-info)
-  * [Project links](#project-links)
-- [Description](#description)
-- [Work Products](#work-products)
-- [Resources](#resources)
-
 ## Quick Info
+Research communities in cyber security project info:
 
-- Supervisor: [supervisor's full name](link-to-online-profile)
-- Active members:
-  - [member 1](link-to-online-profile)
-- Past members:
-  - [First Last](link-to-online-profile)
-- Status: running :green_circle: (or pending :yellow_circle:, completed :orange_circle:)
-- Timeline: [VT-20](self-link-to github-project/milestones)
-- Parent project: [name-of-umbrella-project](link-to-umbrella-project)
+- Members:
+  - Sotirios Katsikeas
+  - Pontus Johnson
+  - Mathias Ekstedt
+  - Robert Lagerström
+- Status: completed :orange_circle:
+- Timeline: 2019-2021
 
-### Project links
+## Application on cyber security research 
 
-- post here a list of links to project assets that are not located in the github
-  repo
-- [Overleaf project](link-to-overleaf-project)
-- [dropbox folder for large files](link-to-dropbox-folder)
-- [other link](#)
+Data regarding the entire cyber security and information security research domain were gathered from the Scopus database, and by automatically analyzing these data, a comprehensive literature review of the entire domain, that also focuses on the social relations of the authors, was conducted. The Louvain community detection algorithm was applied to the created author graph in order to identify existing research communities. The analysis, which was based on 59,782 articles, identified twelve communities: access control, authentication, biometrics, cryptography (I & II), cyber--physical systems, information hiding, intrusion detection, malwares, quantum cryptography, sensor networks, and usable security. The analysis results are presented for each community in descriptive text, sub-community graphs, and tables with, for example, the most-cited papers and authors.
 
-## Description
+The Python code for scraping data from Scopus database, storing them in GCP Datastore, and then running the community analysis locally, is found on this repository.
 
-(This section should hold your project's detailed description)
+## Application on cyber security vulnerability assessments
 
-The idea is to use github.com as a central point of reference for our group's
-projects. A github.com organization ([KTH-SSAS](https://github.com/KTH-SSAS))
-has been created, where all SSAS members are added to. The organization is
-organized in teams that reflect the actual "teams" and collaborations that exist
-in the group.
+In order to provide a coherent overview of vulnerability assessments and penetration tests, 537,629 related articles from 1975 to 2022 were scraped from the Scopus database. A Python script was used for data mining as well as analysis and 23,459 articles were included in the final synthesis. The articles were authored by 53,495 authors and produced an aggregated total of 836,956 citations. The Louvain community detection algorithm was used to create research communities within the area. In total, 16 research communities were identified: smart grids, attack graphs, security testing, software vulnerabilities, Internet of Things (IoT), network vulnerability, vulnerability analysis, Android, cascading failures, authentication, Software-Defined Networking (SDN), spoofing attacks, malware, trust models, and red teaming. Each community had several individual subcommunities, together constituting a total of 126 subcommunities. From the trends of the published studies analyzed, it is clear that research interest in penetration testing and vulnerability assessment is increasing.
 
-Each team will create one or more git repos on github.com under the KTH-SSAS
-organization where project assets (e.g. tex documents, small files, code, etc)
-is added. Github also has an issue tracker that can be used to keep track of the
-pending work in a visible way, where other team members or external
-collaborators can keep track of the work ahead and discuss.
+Authors: Fredrik Heiding, Sotirios Katsikeas, Robert Lagerström
 
-This README is meant as a common template for all KTH-SSAS projects. The aim is
-to have a uniform look and feel that is also usable and productive. When you use
-this template, try to conform with its structure. __If it is not
-sufficient/proper for you project, of course feel free to deviate or ignore
-it.__ Or, if you have suggestions, create a [new
-issue](https://github.com/KTH-SSAS/skeleton/issues/new) or [pull
-request](https://github.com/KTH-SSAS/skeleton/pull/new).
+## Publications
+The journal article for the research communities in cyber security can be found [here](https://www.sciencedirect.com/science/article/pii/S157401372100071X?via%3Dihub)
+The journal article for the research communities in cyber security vulnerability assessments is currently pending reviewer's feedback!
 
-To use this skeleton repository as a template for your project, simply create a new repository and select this repo as the template:
+## Instructions for using the code (e.g. for analyzing other domains)
+To run this project some Python modules must first be installed. This can be done by running:
 
+pip install -r requirements.txt
 
-![Screenshot_20201003_112921](https://user-images.githubusercontent.com/11805218/94988207-dc43c300-056b-11eb-9ae7-7041bd438133.png)
+Then, make sure to update `atlas_config.py` with the correct path towards your Google Cloud key (you need that because all the data are stored on GCP Datastore) and your Scopus API key (you can get one from: https://dev.elsevier.com). Of course, that means that you also need a Google Cloud Project with a Datastore ("Cloud Firestore in Datastore mode"
+) database set up.
 
-See [this repo](https://github.com/KTH-SSAS/threatmove-iso-21434) for
-an example.
-
-## Work Products
-
-- [ ] A checklist of pending and completed work products of the project, i.e.
-  project deliverables.
-- [x] An already produced deliverable is marked with a check.
-- [x] If the deliverable can be accessed online (or in the github repo) add
-  a [link](#) to it. For example, if the project includes the production of
-  a paper, link to the published paper in a journal.
-- [ ] If the deliverable is not yet delivered, leave the checkbox unchecked.
-
-## Resources
-- Add here in a bullet list to resources relevant to the project, for instance:
-- [ISO-21434](https://www.iso.org/standard/70918.html) - PDF needs to be purchased
-- [vehicleLang](https://github.com/mal-lang/vehicleLang)
-- [MAL - Meta Attack  Language](https://mal-lang.org)
-- [SecuriCAD](https://foreseeti.com)
-- [ThreatMOVE project](https://autosec.se/projects/)
+Finally, you would need to either edit the `general_query` (on `main.py`), or create new functions (such as `retrieve_X_from_scopus` and `analyze_X`) for the domain you want to analyze. Be careful that if you opt for the simple alternative, which is to change the `general_query`, you would also need to change the contents of the `communities_rename_list.json` and `excluded_communities_list.csv` files.
 
 <br>
 
@@ -132,5 +68,4 @@ within the [Division of Network and Systems Engineering](https://kth.se/nse) at
 the Department of Computer Science at the School of [Electrical Engineering and
 Computer Science](https://www.kth.se/en/eecs) @ [KTH university](https://www.kth.se).
 
-For more of our projects, see the [SSAS page at
-github.com](https://github.com/KTH-SSAS).
+For more of our projects, see the [SSAS page at github.com](https://github.com/KTH-SSAS).

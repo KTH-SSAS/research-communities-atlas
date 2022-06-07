@@ -1,0 +1,25 @@
+Original Name,Rename To
+block ciphers,cryptography I
+random oracle model,cryptography II
+phishing,usable security
+steganography,information hiding
+image encryptions,information hiding
+smart grid,cyber-physical systems
+cryptography I:trojans,hardware trojans
+cryptography II:cloud computing,attribute-based encryption
+cryptography II:bitcoin,blockchain
+cryptography II:random oracle model,cryptography fundamentals
+cryptography II:signature scheme,provable security
+information hiding:image encryptions,chaos-based image encryption
+information hiding:optical encryption,optical image encryption
+intrusion detection:anomaly detection,machine learning anomaly detection
+intrusion detection:false alarm rate,anomaly detection
+intrusion detection:regular expressions,deep packet inspection
+sensor networks:content distribution,content-based security
+sensor networks:physical layers,spoofing attacks
+biometrics:biometric systems,biometric fingerprinting
+biometrics:user authentication,keystroke dynamics
+biometrics:equal error rate,biometric authentication
+authentication:smart card,password
+cyber-physical systems:cyber physical systems (cpss),cyber-physical attacks
+usable security:authentication,password security

@@ -1,0 +1,197 @@
+----------------------------------------
+>>> Attack Graph (AG) Security Atlas <<<
+----------------------------------------
+Goal: Capture articles within the domain of attack/threat modeling, graphs and simulation
+
+RQ1: Find the social communities
+RQ2: Find if publications on journal are acase
+RQ3: Focus on the methods used by the mostly cited articles, which is the best work done (and used)?
+---
+
+((TITLE-ABS-KEY ("cyber security") OR TITLE-ABS-KEY ("information security")) AND (TITLE-ABS-KEY ("threat model*") OR TITLE-ABS-KEY ("attack graph") OR TITLE-ABS-KEY ("attack tree"))) 
+Output: 368 document results
+---
+From the below query
+(TITLE-ABS-KEY ("threat model*") OR TITLE-ABS-KEY ("attack graph") OR TITLE-ABS-KEY ("attack tree"))  
+Output: 3,350 document results
+
+Resulted keywords:
+
+Network Security
+*Attack Graph
+*Threat Modeling
+Security Of Data
+Risk Assessment
+Computer Crime
+*Attack Tree
+Security Systems
+Security
+Forestry
+-Attack Graphs
+Cryptography
+Data Privacy
+Algorithms
+Graph Theory
+Graphic Methods
+Internet
+Cyber Security
+Intrusion Detection
+Trees (mathematics)
+Embedded Systems
+Internet Of Things
+-Threat Model
+-Threat Models
+Authentication
+Risk Analysis
+Vulnerability
+Security Analysis
+Mathematical Models
+-Attack Trees
+Risk Management
+Cloud Computing
+Artificial Intelligence
+Automation
+Global Positioning System
+Semantics
+Security Requirements
+Information Systems
+Mobile Security
+Distributed Computer Systems
+Privacy
+Crime
+Computer Networks
+Complex Networks
+Computer Software
+Security Threats
+Vulnerability Analysis
+Network Protocols
+Security Metrics
+Security Assessment
+Attack Scenarios
+*Bayesian Networks
+*Attack Path
+Probability
+Software Design
+Computer Simulation
+Access Control
+Decision Making
+Risk Perception
+Optimization
+Denial-of-service Attack
+Information Management
+Software Engineering
+Malware
+Cyber-attacks
+Network Architecture
+*Markov Processes
+Cyber Physical System
+Game Theory
+Information Technology
+Ionosphere
+Security And Privacy
+Digital Storage
+Internet Protocols
+Information Security
+Ionospheric Measurement
+Model Checking
+Intrusion Detection Systems
+Network Vulnerability
+Wireless Networks
+Security Evaluation
+Safety Engineering
+Security Model
+Critical Infrastructures
+Security Vulnerabilities
+Computer Privacy
+Privacy Preserving
+Smart Power Grids
+Software Security
+Stochastic Systems
+Electric Power Transmission Networks
+Mobile Telecommunication Systems
+Security Risk Assessments
+Big Data
+Learning Systems
+Network Administrator
+Smart Grid
+Threat Modelling
+Web Services
+*Attack Model
+Hardware Security
+Satellites
+Threat Analysis
+Computer Science
+Control Systems
+Enterprise Networks
+Models
+Security Risks
+Topology
+Wireless Telecommunication Systems
+Computer Architecture
+Computers
+Costs
+Network Attack
+Security Properties
+Airport Ground Equipment
+Petri Nets
+Surveys
+Telecommunication Networks
+Application Programs
+Computation Theory
+Risks
+Visualization
+Vulnerability Assessments
+Intelligent Systems
+Navigation
+STRIDE
+Security Problems
+Computer Security
+Internet Of Thing (IOT)
+Potential Threats
+Public Key Cryptography
+Virtual Reality
+Wireless Sensor Networks
+Alert Correlation
+Cost Effectiveness
+Decision Support Systems
+Denial Of Service
+Ground-based Augmentation Systems
+Hardware
+Internet Of Things (IOT)
+Economic And Social Effects
+Hardening
+Information Use
+Network Attack Graphs
+Systems Analysis
+World Wide Web
+Article
+Intelligent Buildings
+Security Protocols
+Social Networking (online)
+Industrial Control Systems
+Life Cycle
+Machine Learning
+Multi-step Attacks
+Personal Computing
+Ubiquitous Computing
+Computer Systems
+Cybersecurity
+Formal Methods
+
+---
+Resulting query:
+
+(KEY("Attack Graph") AND TITLE-ABS-KEY ("Security"))
+OR (KEY("Threat Model*") AND TITLE-ABS-KEY ("Security"))
+OR (KEY("Attack Tree") AND TITLE-ABS-KEY ("Security"))
+OR (KEY("Bayesian Networks") AND (TITLE-ABS-KEY ("Cyber Security") OR TITLE-ABS-KEY("Information Security")))
+OR (KEY("Attack Path") AND TITLE-ABS-KEY ("Security"))
+OR (KEY("Markov Processes") AND (TITLE-ABS-KEY ("Cyber Security") OR TITLE-ABS-KEY("Information Security")))
+OR (KEY("Attack Model*") AND TITLE-ABS-KEY ("Security"))
+OR (KEY ("Attack Simulations") AND TITLE-ABS-KEY ("Security"))
+AND (SUBJAREA(COMP) OR SUBJAREA(ENGI) OR SUBJAREA(MATH) OR SUBJAREA(SOCI) OR SUBJAREA(BUSI) OR SUBJAREA(DECI) OR SUBJAREA(MULT) OR SUBJAREA(Undefined)) AND (LANGUAGE(English))
+
+One line query:
+(KEY ("Attack Graph") AND TITLE-ABS-KEY ("Security")) OR (KEY ("Threat Model*") AND TITLE-ABS-KEY ("Security")) OR (KEY ("Attack Tree") AND TITLE-ABS-KEY ("Security")) OR (KEY ("Bayesian Networks") AND (TITLE-ABS-KEY ("Cyber Security") OR TITLE-ABS-KEY ("Information Security"))) OR (KEY ("Attack Path") AND TITLE-ABS-KEY ("Security")) OR (KEY ("Markov Processes") AND (TITLE-ABS-KEY ("Cyber Security") OR TITLE-ABS-KEY ("Information Security"))) OR (KEY ("Attack Model*") AND TITLE-ABS-KEY ("Security")) OR (KEY ("Attack Simulations") AND TITLE-ABS-KEY ("Security")) AND (SUBJAREA (COMP) OR  SUBJAREA (ENGI) OR SUBJAREA (MATH) OR SUBJAREA (SOCI) OR SUBJAREA (BUSI) OR SUBJAREA (DECI) OR SUBJAREA (MULT) OR SUBJAREA (Undefined)) AND (LANGUAGE (English))
+
+Output: 1,942 document results (9 Mar 2020)

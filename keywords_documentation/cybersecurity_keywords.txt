@@ -1,0 +1,276 @@
+Keywords from the search
+(TITLE-ABS-KEY ("cyber security") OR TITLE-ABS-KEY ("information security")):
+
+Output:
+27,654 document results
+
+Keywords:
+
+Security Of Data (12,946)
+Information Security (7,114)
+Cyber Security (6,207)
+Network Security (4,536)
+Computer Crime (2,637)
+Cryptography (2,609)
+Security Systems (2,132)
+Information Management (1,738)
+Information Systems (1,643)
+Cybersecurity (1,625)
+Risk Assessment (1,518)
+Security (1,410)
+Information Technology (1,335)
+Authentication (1,240)
+Internet (1,217)
+Risk Management (1,117)
+Data Privacy (1,078)
+Intrusion Detection (1,069)
+Crime (970)
+Artificial Intelligence (870)
+Access Control (866)
+Algorithms (850)
+Mobile Security (754)
+Internet Of Things (745)
+Cyber-attacks (741)
+Malware (722)
+Personal Computing (720)
+Cloud Computing (688)
+Embedded Systems (665)
+Learning Systems (654)
+Decision Making (644)
+Computer Security (643)
+Industrial Management (642)
+Societies And Institutions (631)
+Big Data (629)
+Smart Power Grids (622)
+Privacy (590)
+Electric Power Transmission Networks (574)
+Smart Grid (568)
+Computer Networks (564)
+Surveys (551)
+Data Mining (549)
+Risk Analysis (543)
+Education (539)
+Information Security Managements (534)
+Computer Science (522)
+Steganography (517)
+Information Services (511)
+Distributed Computer Systems (507)
+Standards (505)
+NetworkProtocols (494)
+Electronic Commerce (493)
+Control Systems (483)
+Students (467)
+Behavioral Research (444)
+Public Key Cryptography (444)
+Automation (435)
+Computer Software (434)
+Digital Storage (430)
+Curricula (429)
+Information Science (429)
+Intrusion Detection Systems (419)
+Information Use (404)
+Critical Infrastructures (398)
+Social Networking (online) (394)
+National Security (387)
+Industry (382)
+Network Architecture (380)
+Data Security (377)
+Laws And Legislation (376)
+Wireless Telecommunication Systems (370)
+Software Engineering (368)
+Machine Learning (367)
+Computer Viruses (359)
+Information Dissemination (351)
+Image Processing (346)
+Research (345)
+Human (344)
+Complex Networks (342)
+Internet Protocols (342)
+Classification (of Information) (339)
+Information Security Policies (337)
+Article (335)
+Industrial Control Systems (333)
+Investments (330)
+Security Requirements (329)
+Information Analysis (328)
+Health Care (324)
+Communication (323)
+Cyber-security (323)
+Computers (321)
+Biometrics (320)
+SCADA Systems (319)
+Security Policy (316)
+Security Threats (316)
+Mathematical Models (305)
+Hardware (299)
+Application Programs (298)
+Semantics (297)
+Teaching (295)
+Encryption (292)
+Information Security Management
+Commerce
+Optimization
+Intelligent Systems
+Computer System Firewalls
+Economics
+Security Management
+Risk Perception
+Public Works
+Denial-of-service Attack
+Personnel Training
+Mobile Devices
+Mobile Telecommunication Systems
+Cyber Threats
+World Wide Web
+Game Theory
+Anomaly Detection
+Knowledge Management
+Websites
+Wireless Networks (259)
+Database Systems (258)
+Computer Simulation (256)
+Digital Watermarking (256)
+Neural Networks (256)
+Learning Algorithms (255)
+Signal Processing (255)
+Confidentiality (252)
+Intelligent Control (252)
+Public Policy (252)
+Technology (247)
+Problem Solving (246)
+Safety Engineering (246)
+Web Services (246)
+Information Assurance (245)
+Design (244)
+Telecommunication Networks (243)
+Computation Theory (242)
+Sensitive Informations (242)
+Data Acquisition
+Information Security Management Systems
+Cyber Physical System
+Engineering Education
+Monitoring
+Management
+Information Security Awareness
+Electronic Document Identification Systems
+Humans
+Risks
+Cybernetics
+Human Computer Interaction
+Security Risks
+Security Issues
+Information And Communication Technologies
+Virtual Reality
+Computer Architecture
+Human Engineering
+Mercury (metal)
+Ubiquitous Computing
+Regulatory Compliance
+
+-----------------------
+Sotirios' picks:
+
+Security Of Data (12,946)
+Information Security (7,114)
+Cyber Security (6,207)
+Network Security (4,536)
+Computer Crime (2,637)
+Cryptography (2,609)
+Cybersecurity (1,625)
+Authentication (1,240)
+Intrusion Detection (1,069)
+Access Control (866)
+Mobile Security (754)
+Cyber-attacks (741)
+Malware (722)
+Computer Security (643)
+Steganography (517)
+*Public Key Cryptography (444)
+*Data Security (377)
+*Computer Viruses (359)
+*Information Security Policies (337)
+*Encryption (292)
+
+-----------------------
+Pontus' picks:
+
+Security Of Data (12,946)
+Information Security (7,114)
+Cyber Security (6,207)
+Network Security (4,536)
+Computer Crime (2,637)
+Cryptography (2,609)
+*Security Systems (2,132)
+Cybersecurity (1,625)
+*Security (1,410) ? (REMOVED, very broad/problematic)
+Authentication (1,240)
+*Data Privacy (1,078) (Included in "Privacy" based on facts!)
+Intrusion Detection (1,069)
+Access Control (866)
+Mobile Security (754)
+Cyber-attacks (741)
+Malware (722)
+Computer Security (643)
+*Privacy (590) ? (Uncertain but I kept it!)
+*Information Security Managements (534) (Included in "Infromation Security")
+Steganography (517)
+
+-----------------------
+Mathias' picks:
+
+Security Of Data (12,946)
+Information Security (7,114)
+Cyber Security (6,207)
+Network Security (4,536)
+Computer Crime (2,637)
+Cryptography (2,609)
+Cybersecurity (1,625)
+Authentication (1,240)
+Data Privacy (1,078) (Included in "Privacy" based on facts!)
+Intrusion Detection (1,069
+Access Control (866)
+Mobile Security (754)
+Cyber-attacks (741)
+Malware (722)
+Computer Security (643)
+Privacy (590)
+Information Security Managements (534) (Removed final s, because Scopus takes care of that) (Included in "Infromation Security")
+Steganography (517)
+*Public Key Cryptography (444) (Included in "Cryptography")
+*Intrusion Detection Systems (419) (Included in "Intrusion Detection" based on Scopus search methodology)
+
+In addition to those 20 top ones i think the following could possibly be motivated since they are possibly not sufficiently covered by the other keywords. If we want to aim for completeness of the security domain.
+
+Information Security Policies (337) (Included in "Infromation Security")
+Security Requirements  (ADDED)
+Biometrics (320)
+Computer System Firewalls
+Denial-of-service Attack
+Digital Watermarking (256) (ADDED)
+
+-----------------------
+Final pruned keywords (21, * denotes the completely new ones):
+
+Security Of Data (12,946) ? Little problematic, no action taken
+Information Security (7,114)
+Cyber Security (6,207)
+Network Security (4,536)
+Computer Crime (2,637)
+Cryptography (2,609)
+*Security Systems (2,132) (Pontus) ? Little problematic, no action taken
+*Cybersecurity (1,625) (All three of us)
+Authentication (1,240) <?
+Intrusion Detection (1,069)
+Access Control (866) (AND TITLE-ABS-KEY ("Security"))
+Mobile Security (754) ? (AND NOT KEY("Cytology"))
+*Cyber-attacks (741) (All three of us)
+Malware (722)
+Computer Security (643) <?
+Privacy (590) (Pontus and Mathias) <? (AND TITLE-ABS-KEY ("Security"))
+Steganography (517)
+Computer Viruses (359) (Sotirios and old query)
+*Security Requirements (329) (Mathias)
+Security Policy (316) (Sotirios and old query)
+Digital Watermarking (256) (Mathias and old query) ?? (AND TITLE-ABS-KEY ("Security"))
+
+'KEY("Security Of Data") OR KEY("Information Security") OR KEY("Cyber Security") OR KEY("Network Security") OR KEY("Computer Crime") OR KEY("Cryptography") OR KEY("Security Systems") OR KEY("Cybersecurity") OR KEY("Authentication") OR KEY("Intrusion Detection") OR (KEY("Access Control") AND TITLE-ABS-KEY ("Security")) OR (KEY( "Mobile Security") AND NOT KEY("Cytology")) OR KEY("Cyber-attacks") OR KEY("Malware") OR KEY("Computer Security") OR (KEY("Privacy") AND TITLE-ABS-KEY ("Security")) OR KEY("Steganography") OR KEY("Computer Viruses") OR KEY("Security Requirements") OR KEY("Security Policy") OR (KEY("Digital Watermarking") AND TITLE-ABS-KEY ("Security")) AND (SUBJAREA(COMP) OR SUBJAREA(ENGI) OR SUBJAREA(MATH) OR SUBJAREA(SOCI) OR SUBJAREA(BUSI) OR SUBJAREA(DECI) OR SUBJAREA(MULT) OR SUBJAREA(Undefined)) AND (LANGUAGE(English))'
