@@ -43,6 +43,7 @@ Authors: Fredrik Heiding, Sotirios Katsikeas, Robert Lagerström
 
 ## Publications
 The journal article for the research communities in cyber security can be found [here](https://www.sciencedirect.com/science/article/pii/S157401372100071X?via%3Dihub)
+
 The journal article for the research communities in cyber security vulnerability assessments is currently pending reviewer's feedback!
 
 ## Instructions for using the code (e.g. for analyzing other domains)
