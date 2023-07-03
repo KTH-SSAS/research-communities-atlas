@@ -44,7 +44,7 @@ Authors: Fredrik Heiding, Sotirios Katsikeas, Robert Lagerström
 ## Publications
 The journal article for the research communities in cyber security can be found [here](https://www.sciencedirect.com/science/article/pii/S157401372100071X?via%3Dihub)
 
-The journal article for the research communities in cyber security vulnerability assessments is currently pending reviewer's feedback!
+The journal article for the research communities in cyber security vulnerability assessments can be found [here](https://www.sciencedirect.com/science/article/pii/S1574013723000187?via%3Dihub)
 
 ## Instructions for using the code (e.g. for analyzing other domains)
 To run this project some Python modules must first be installed. This can be done by running:
